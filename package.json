@@ -1,0 +1,24 @@
+{
+  "name": "core-ajax-npm",
+  "version": "0.0.0",
+  "description": "This is a helper / wrapper package for core-ajax and potentially other polymer-elements to keep appropriate bower like pathing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Custom-Elements/core-ajax-npm"
+  },
+  "keywords": [
+    "core-ajax",
+    "npm",
+    "polymer"
+  ],
+  "author": "David L. Goldberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Custom-Elements/core-ajax-npm/issues"
+  },
+  "homepage": "https://github.com/Custom-Elements/core-ajax-npm"
+}
