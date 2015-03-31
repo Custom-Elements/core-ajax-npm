@@ -1,7 +1,7 @@
 {
   "name": "core-ajax-npm",
   "version": "0.0.0",
-  "description": "This is a helper / wrapper package for core-ajax and potentially other polymer-elements to keep appropriate bower like pathing.",
+  "description": "core-ajax, packaged up for npm without importing polymer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
